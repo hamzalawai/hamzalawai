@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hamzalawai
 - 👀 I’m interested in too many things to list here :)
-- 🌱 I’m currently learning ROS and Python. I am also a Mechanical Engineering student at UCI
+- 🌱 I’m currently working on RL and multi-agent collaboration @ UC Berkeley.
 - 📫 How to reach me: send me an email at hamzaalawai@gmail.com
 
 <!---
